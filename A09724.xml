@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discouerie of certaine English wants, which are royally supplyed in this treatise by H. Platt of Lincolnes Inne Esquier</title>
+            <author>Plat, Hugh, Sir, 1552-1611?</author>
+         </titleStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A09724</idno><idno type="EEBO-CITATION">99849981</idno>
+  <idno type="VID">15162</idno>
+  <idno type="EEBO-PROQUEST">2248560044</idno>
+  <idno type="STC">STC 19988</idno>
+  <idno type="STC">ESTC S114758</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849981e"/>
+            <note>(EEBO-TCP ; phase 2, no. A09724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1181:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discouerie of certaine English wants, which are royally supplyed in this treatise by H. Platt of Lincolnes Inne Esquier</title>
+                  <author>Plat, Hugh, Sir, 1552-1611?</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>By P[eter] S[hort] for William Ponsonby,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Running title reads: A supplie of certaine english wants.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Inventions --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15162:1"/>
+            <pb facs="tcp:15162:1"/>
+            <p>
+               <hi>A</hi> DISCOVERIE OF CER<g ref="char:EOLhyphen"/>taine English wants, which are roy<g ref="char:EOLhyphen"/>ally supplyed in this treatise <hi>by</hi> H. PLATT <hi>of Lincolnes</hi> Inne Esquier.</p>
+            <q>
+               <l>Nunc Tuba nunc lituus cecinit Taratantararaucus</l>
+               <l>Taurus &amp; infesto, iam pede pulsat humum.</l>
+               <bibl>
+                  <hi>Ovid.</hi>
+               </bibl>
+            </q>
+            <p>Printed at London by <hi>P. S.</hi> for <hi>William Ponsonby. 1595.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:15162:2"/>
+            <pb facs="tcp:15162:2"/>
+            <head>A supplie of certaine english <hi>wantes.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Heras in my late Apologie publi<g ref="char:EOLhyphen"/>shed Anno 93. as also sithence in my booke entituled the <hi>Iewell house of Art and nature</hi> printed Anno 94. I haue amongst many other conceipted experimentes tending to seueral aswel profitable as delightful vses, made likewise a publicke offer of sun<g ref="char:EOLhyphen"/>dry new &amp; rare inuētions, such as if they were brought into some generall, and common vse, would procure great loue and securitie to the rich, sufficient mainte<g ref="char:EOLhyphen"/>naunce and reliefe to the poore, some credit to the Au<g ref="char:EOLhyphen"/>thor, and no small benefite to the whole realme of En<g ref="char:EOLhyphen"/>gland: I am now forced euen by the bond of charity as a christian, and in the tender loue, and affection, which I owe vnto my natiue countrey as a trew, and naturall Englishman (seeing in these vnthankeful and wretched times, I see it is not sufficient to propound the best, and most royall offers howsoeuer exemplified, and made autentique euen by often &amp; manifold experience her selfe, y<seg rend="sup">e</seg> true, and vndoubted mother of all credit in this kind, vnlesse by a manuell demonstration likewise the meanes of execution, which is the life of al inuentions, be associated, &amp; ioyned thereunto) I saie I am enforced both as a scholer first to deuise, and then as a Polititian to bring into publicke vse, that which hetherto hath so
+<pb facs="tcp:15162:3"/> long attended vppon dewe deserued fauors, vntill it is trampled vnder the proud foot of euery base mechani<g ref="char:EOLhyphen"/>call workeman, whose absurd eare can endure no other musick, then that which is forced from the Anuill with the grosse hand, and hammer of an ordinarie vulcanist.</p>
+            <p>Now therefore I see it is time, and high time to let the world, and all posterity to vnderstand, that if our en<g ref="char:EOLhyphen"/>glish Artists (whereof sundrie in my knowledge are of such rare and singular conceipt, as they were able, yea, and would also be found willing if the stipend of honor, and merit were now propounded, fully to discouer a world of new inuentions, whereof no <hi>Polidore</hi> hath as yet taken any note or notise) were sufficiently em<g ref="char:EOLhyphen"/>ploied in the fulnes, and height of their spirits, that they would bring foorth so many, so rich, and so inestimable buds, and blossomes of skill, as neither any ciuill pollicy that hath bin hitherto shut vp in printed bookes, nor a<g ref="char:EOLhyphen"/>ny religious charity that hath bin so often, and so di<g ref="char:EOLhyphen"/>uinely sounded in at our deafe eares, could yet produce or shew any comparable effects vnto them.</p>
+            <p>And that I (being the boldest, though the meanest of many thousands to take so waighty a taske in hand) may in some measure maintaine so hard a <hi>Paradox,</hi> and discharge the credit of the rest in this point, I will yet once againe acquaint you with some few, and those an<g ref="char:EOLhyphen"/>cient inuentions of mine, which if you will at this time heare with patience, and censure with equity, &amp; further with your fauors, I hope to giue you such a true, &amp; liue<g ref="char:EOLhyphen"/>ly tast of the fruits of art, that I shal make your stomacks euen long, &amp; mourne to be better satisfied with that se<g ref="char:EOLhyphen"/>cret foode which these silent Philosophers &amp; Inginers haue reserued vnto themselues, &amp; will hardly offer vnto their country, vntil their first ambassadors returne with the reward of vertue in their hands.</p>
+            <pb facs="tcp:15162:3"/>
+            <p>And because I will herein proceede in the most ac<g ref="char:EOLhyphen"/>ceptable maner that I may, I wil seeke to wring nothing out of your cofers, for I know they haue too many bolts, bars, and lockes vpon them: It is but your coun<g ref="char:EOLhyphen"/>tenance, your commendable labours, and examples which are in authority that I require, it is but that which now you loose, &amp; without me you cānot saue, nay they are but the very crums that fall from <hi>Diues</hi> table wher<g ref="char:EOLhyphen"/>with I wil vndertake to relieue poore <hi>Lazarus,</hi> who nei<g ref="char:EOLhyphen"/>ther as yet with the saltish drops of his body, is able by his labour, nor yet by the bleeding teares of his soule is able by his misery to procure sufficient maintenaunce the one way, or compassion the other way, to relieue himselfe, and his distressed family.</p>
+            <p>Suppose then that whatsoeuer might be saued in few<g ref="char:EOLhyphen"/>el, and fire by some such art as I would discouer &amp; make manifest in most plaine and naked tearmes, were spee<g ref="char:EOLhyphen"/>dily, and cheerefully gathered, and brought into a com<g ref="char:EOLhyphen"/>mon treasury, which cannot be lesse then the one halfe of all that which now is spēt in brewing throughout the whole realme of England: suppose also that hereunto were added the one third of al other fires which may al<g ref="char:EOLunhyphen"/>so be saued in al such shires where any seacoale is vsual<g ref="char:EOLhyphen"/>ly burnt, at the rate of 8. s. the chawdren or vpwarde, what a yearly summe, and masse of treasure would this amount vnto throughout this populous Island? Naie what an infinite number of poore, and sillie wretches might be profitably employed in the composition of so manie colebals, as would be necessarie in so great an expence of fevvell as cannot otherwise bee auoided? Hereunto I may also further adde the full halfe or moi<g ref="char:EOLhyphen"/>ty of all such fewell, as is dayly, and grosselie spent in all the petervvorkes of this Realme, vvhich by a third inuention (allowing the petermen their vsual coales,
+<pb facs="tcp:15162:4"/> vessels, and furnasses) might well be saued, and is now most vainly, &amp; absurdly wasted and consumed. Where in me thinks such a sottish and stifnecked people might be forced by some authority to compound, bycause this violence should concerne their owne good, and now their stubbornes worketh a wilfull wasting both of great store of wood, &amp; seacoale that might be seruiceable for as good or better vse?</p>
+            <p>All this being presupposed, and warranted to be true, and that these secrets when they shalbe put in practise, shalbe found reall, and substantiall in all their proofes, &amp; trials, then let vs consider aduisedly of all those questi<g ref="char:EOLhyphen"/>ons or obiections, that do presently arise concerning the same.</p>
+            <p>The first and principall (as I suppose) will be concer<g ref="char:EOLhyphen"/>ning the Authoritie of such as shalbe thought fit asses<g ref="char:EOLhyphen"/>sors of so new, and weightie a charge. Herein I must needs confesse that I can shew no president, but I thinke in steede of authoritie to commaund, these few reasons may serue to perswade al such as shalbe vnwilling to con<g ref="char:EOLunhyphen"/>tribute in so great a worke of charitie. First their owne safetie, and security which in these late yeares of dearth hath bene a little touched, &amp; more feared, and we haue an old prouerbe that hunger breaketh through stone walles. Secondly a sufficient employment of all such poore as are willing to worke, and all excuse of idlenes remoued from lazie and loytering rogues. Thirdly the easines of the charge or rather the gaine that shall here<g ref="char:EOLhyphen"/>by growe vnto the ritch, for my purpose is that euery contributor should onely giue the moity of that which he shal saue, and to retaine the other moitie to himselfe, so that he shall giue with the one hand, and yet receiue with the other. Fourthly the auoiding of many pettie charges, which shalbe royally supplied in this. Fiftly the
+<pb facs="tcp:15162:4"/> manifestation of a trewe and a charitable faith in relie<g ref="char:EOLhyphen"/>uing the extreame wants, and miseries of their poore, &amp; needie neighbors. Sixtly, &amp; lastly the great encourage<g ref="char:EOLhyphen"/>ment of the Author who meanes as a principall Actor to come in for an <hi>enitia pars</hi> as the Lawyer termeth it, and by his good successe in this kind wilbe readie both himselfe to propound and discouer, some farther mat<g ref="char:EOLhyphen"/>ter of skill then as yet he thinketh meet to publish, and also draw in others of his owne consort, that shall most royally both enrich and beautifie this little Iland with their admirable, and most profitable inuentions.</p>
+            <p>Then we are to consider how this charge shall be e<g ref="char:EOLhyphen"/>qually imposed, &amp; who shall be exempted in this charg. I thinke herein we shall not neede to vse any exact Geo<g ref="char:EOLhyphen"/>metricall or Arithmeticall proportion, but the same discretion that hath bene alwaies vsed in other taxes may likewise serue in this: only my desire is that all the poorer sort should scape skotfree. But here will also a<g ref="char:EOLhyphen"/>rise an other doubt how all these persons shalbe assessed that be of good abilitie, and dvvell either in such shires vvhere they haue no vse of seacoale, and thereby canne make no benefite of my fire, or dvvell in corporate tovvnes or els vvhere, and so being serued of a common Brevver, haue no need of my sauing vessell.</p>
+            <p>Hereby it doth manifestly appeare that vvorldly vvise men do call their purses to a more strict accompt then they do their consciences, &amp; though they care not how many sins they dailie commit, yet they keepe a perfect booke of <hi>Debitor</hi> and <hi>Creditor</hi> for euery penny which they spend. Well yet to giue these frugal men also some contentment. As cōcerning the first they cannot chuse but reape thus much benefite by the fire, that the more wood that shall bee spared in other shires by reason of this new kind of fiering they are also like to haue their
+<pb facs="tcp:15162:5"/> vsuall woode, or coale the cheaper, and likewise their own store to last the longer. And this may also be some reason to satisfie all those, who (either vpon some pre<g ref="char:EOLhyphen"/>tence for a time, or vpon a wilful stomack perhaps lon<g ref="char:EOLhyphen"/>ger) will contribute nothing to this fier, because they happilie will alleadge that they meane not at any time to vse the same in their own houses. But there is yet ano<g ref="char:EOLhyphen"/>ther reason, and that is the freeing of al such shires from al their idle vagabonds, who then insteede of sending them to the place where they were borne according to the statute, may now conuey them (bee it spoken vnder correction, and with all reuerence to al good lawes, and magistrats) into these exercising shires, where they shal finde sufficient employment for them.</p>
+            <p>Touching the second sort of Recusantes, it maie be, yea and it is very probable and likely, that these vessels may also serue for diuers other necessary vses, besides brewing, whereof some are not as yet meet to be disclo<g ref="char:EOLhyphen"/>sed. But suppose there were no other, yet some reasona<g ref="char:EOLhyphen"/>ble contribution on their parts, (either in respect of the fire, or in respect of some of the former reasons, which do also fall into the same mood and figure, or in respect of the best reasons whereof these present times affoord to too many though in good discretion I forbeare to vrge them) is both to be wished, and expected.</p>
+            <p>Yet if this publike good cannot bee wrought in this publike manner, without bringing in of a daungerous president to the ouerboldning of all good wittes that woulde from time to time shewe themselues pregnant in this kind, then I submit my selfe to the direction of those who beeing in higher place, of riper iudgement and greater experience then my selfe, wil happily finde <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> some better course therein then either my shallow <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> conceiue, or my slender penne is able
+<pb facs="tcp:15162:5"/> to describe.</p>
+            <p>And because these Eagles egges be long in hatching, and seeing daily experience hath now assured me, that though many hands make light worke, yet manie wits for the most part conclude nothing, I am resolued (as neither expecting, nor refusing any good course that shal be offered me herein) to entertain the present time not with a theorical wit any longer, but with a practical hand, and free spirit being ready to maintaine the cre<g ref="char:EOLhyphen"/>dit of my former labors, as wel by discouery of diuers se<g ref="char:EOLhyphen"/>cret and gentlemanly skils vnto such as shall repaire vn<g ref="char:EOLhyphen"/>to me for the same, as also by furnishing of all trauailers with light and comely garmentes, not as a Taylor or a Shomaker in the fashion, but as an artist in giuing a de<g ref="char:EOLhyphen"/>fensatiue vnto them against al wet and stormy weather, so as euen in a slender hat, cloake, cassocke, or basses of taffata, satten, or grogeram, and other mercery stufs, &amp; in a sweet, and cleanly boot, or shoe of spanish, or bona<g ref="char:EOLhyphen"/>uenter or any other drie leather and vncorried, each Gentleman may be sufficiently armed at all pointes ei<g ref="char:EOLhyphen"/>ther on foote or horsebacke in the greatest shower of raine, that can happen.</p>
+            <p>And lastly because I haue alwaies founde it in mine owne experience an easier matter to deuise many, and very profitable inuentions, then to dispose of one of them to the good of the author himselfe, and because I know that there be many gentlemen in good fauor that be alwaies ready, and willing to entertaine good suites, I haue thought it not amisse to let them vnderstande, that I am also as yet well furnished for them if they come in time, and whilest my small store lasteth. For I haue referred them all vnto my title of priority, and po<g ref="char:EOLhyphen"/>steriority. All which suites as they are for the most part new, &amp; fresh from the mint, so they are by their natures
+<pb facs="tcp:15162:6"/> and quality either fit for a priuiledge, or for some newe officers that may vndertake such seruices of charge, as are greatly wanting though daily wished for in this realme, &amp; in these times. And had the author himselfe found any fauour in his first suites, he would then haue conferred those secrets freely vpon his country, vvhich now (by reason of his further charge, and greater losse of time that is irrecouerable) he is forced to offer in this kinde, neither pleasing himselfe, nor satisfying others, nor answering the worth of those skils which he purpo<g ref="char:EOLhyphen"/>seth to disclose.</p>
+            <div type="abstract">
+               <head>An abstract of some few of the particulars en<g ref="char:EOLhyphen"/>tended in this treatise.</head>
+               <p n="1">1 A means to prepare beefe, veale, or mutton without any salt, and fit to bee laide vp in storehouses for many yeares, or to furnish long voyages withall.</p>
+               <p n="2">2 A defensatiue in the highest kind of all armor, and artillery whatsoeuer from rusting in seuen yeares after one preparation. This is a fit secret for all hir Maiesties armories, and all the artillery of her ships, wherein the beauty of the armor is still preserued notwithstanding his defensatiue vpon it, it fuffreth no dampe either of fresh, or brackish water to preuaile against it, this is an inestimable secret for the sea in the opinion of sir <hi>Fr. Drake.</hi>
+               </p>
+               <p n="3">3 An excellent caliuer, or musket shot exceeding all bullets that are yet had in ordinary vse: of these the au<g ref="char:EOLhyphen"/>thor wil be ready to make such store as shalbe required.</p>
+               <p n="4">4 Some english secrets wherby we may be lesse behol<g ref="char:EOLhyphen"/>ding either vnto Spaine, or France in some of their best commodities.</p>
+               <p n="5">5 A candle of much lesse price then our ordinary can<g ref="char:EOLhyphen"/>dles,
+<pb facs="tcp:15162:6"/> each of them lasting 120 howers at the least. It is sodainly made.</p>
+               <p n="6">6 A new kinde of malting, wherein the one halfe of our vsuall fier will be saued.</p>
+               <p n="7">7 A cheape, and multiplied pitch seruiceable onlie for ships and other vessels.</p>
+               <p n="8">8 A certaine &amp; speedy way for thuning of any breach.</p>
+               <p n="10">10 The art Spagiricall which shall bee deliuered in a most familiar, and speedy maner for the drawing of all oiles out of gums, seedes, flowers, and aromaticall bo<g ref="char:EOLhyphen"/>dies, and of all waters, spirits and salts out of vegetables with all necessary circumstances belonging thereunto.</p>
+               <p n="10">10 An excellent oily composition defending all iron workes from rust, and canker, wherewith I did furnish sir <hi>Francis Drake</hi> in this last voiage.</p>
+               <p n="11">11 A pump not weighing twenty pound in weight, &amp; yet sufficient to deliuer fiue tuns of water in one hower. It is an excellent engin to water all those houses that are neere the riuer of <hi>Thames,</hi> or any other riuer in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as also for all ships of warre.</p>
+               <p n="12">12 A licour to keepe either boot, shoe or buskin made of drie leather, both blacke in wearing, and defensible against all raine, dew, or moisture, whereof there hath bin already a sufficient triall had by diuers gentlemen, and others, this is to be had of the Author in seuerall kindes.</p>
+               <epigraph>
+                  <q xml:lang="lat">Temporizare optimum.</q>
+               </epigraph>
+            </div>
+         </div>
+         <div type="publisher_to_the_reader">
+            <p>All those that are desirous to haue any conference with the publisher hereof may bee aduertised of his a<g ref="char:EOLhyphen"/>bode by <hi>William Ponsonby</hi> stationer in Paules church<g ref="char:EOLhyphen"/>yard.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
